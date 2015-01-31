@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.ionic.hello" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Todo</name>
+    <name>Loot Card</name>
     <description>
-        A sample Ionic Framework app using Cordova and AngularJS.
+        Controlled banking for everbody. Everywhere.
     </description>
     <author email="dev@callback.apache.org" href="http://nitrous.io">
-        Nitrous.IO
+         Final Form Studios
     </author>
     <content src="index.html" />
     <access origin="*" />
